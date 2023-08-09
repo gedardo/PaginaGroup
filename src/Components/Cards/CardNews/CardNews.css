@@ -1,0 +1,14 @@
+.card_style{
+    width: 18rem;
+    box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.58);
+    -webkit-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.58);
+    -moz-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.58);
+}
+
+.text-reduction{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
+      overflow: hidden;
+}

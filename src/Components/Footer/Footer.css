@@ -1,0 +1,48 @@
+.site-footer {
+  background-color: #f2f2f2;
+  color: #555;
+  font-size: 16px;
+}
+
+.site-footer a {
+  color: #555;
+}
+
+.site-footer a:hover {
+  color: #222;
+}
+
+.site-footer h6 {
+  color: #222;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.site-footer p {
+  margin-bottom: 0;
+}
+
+.social-link {
+  display: inline-block;
+  background-color: transparent;
+  color: #555;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  font-size: 28px;
+}
+
+.social-link:hover {
+
+  transform: scale(2.2);
+}
+
+.logo_footer{
+  width: 10rem;
+  text-align: center;
+}
+
+.footer-style{
+  /* width: auto; */
+  text-align: center;
+}

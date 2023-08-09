@@ -1,0 +1,13 @@
+.about_style {
+    background-color: #212121;
+    color: #fff;
+    padding: 50px;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  
+  .about_style h5 {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
